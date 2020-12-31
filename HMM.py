@@ -1,4 +1,5 @@
 import numpy as np
+import torch
 
 class HMM(object):
     def __init__(self):
